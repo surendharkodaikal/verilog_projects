@@ -1,1 +1,8 @@
+which code to see first?
 
+Go with 1. mul_by_add_top
+2. mul_by_add_datapath
+3.mul_by_add_ctrlpath
+4. testbench
+
+try to execute testbench code
